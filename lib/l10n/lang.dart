@@ -9,6 +9,10 @@ const Map<String, Map<String, String>> localizedValues = {
     'recommended_crops': 'Recommended Crops',
     'location': 'Location',
     'select_manual_location': 'Select Location Manually',
+    'disease_detector': 'Disease Detector',
+    'pick_image': 'Pick Crop Image',
+    'no_image_selected': 'No image selected yet',
+    'predicted_disease': 'Predicted Disease',
   },
   'hi': {
     'welcome': 'कृषिमित्र में आपका स्वागत है!',
@@ -20,5 +24,9 @@ const Map<String, Map<String, String>> localizedValues = {
     'recommended_crops': 'सिफारिश किए गए फसलें',
     'location': 'स्थान',
     'select_manual_location': 'स्थान मैन्युअल रूप से चुनें',
+    'disease_detector': 'रोग पहचानकर्ता',
+    'pick_image': 'फसल की तस्वीर चुनें',
+    'no_image_selected': 'कोई छवि चयनित नहीं है',
+    'predicted_disease': 'अनुमानित रोग',
   },
 };

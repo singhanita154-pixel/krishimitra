@@ -4,6 +4,7 @@ import 'crop_screen.dart';
 import 'disease_screen.dart';
 import 'chatbot_screen.dart';
 
+
 class HomeScreen extends StatefulWidget {
   final String languageCode;  // ✅ Add this property
 
@@ -70,7 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => DiseaseScreen()),
+                  MaterialPageRoute(builder: (context) => DiseaseScreen(languageCode: widget.languageCode),),
                 );
               },
             ),
@@ -81,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => ChatbotScreen()),
+                  MaterialPageRoute(builder: (context) => ChatbotScreen(languageCode: widget.languageCode)),
                 );
               },
             ),
