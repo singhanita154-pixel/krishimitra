@@ -8,14 +8,14 @@ It uses **AI-powered crop recommendations, disease detection, real-time weather,
 ## 📱 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screen1.png" alt="Login Screen" width="250"/>
-  <img src="assets/screenshots/screen2.png" alt="Home Dashboard" width="250"/>
-  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
-  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
-  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
-  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
-  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
-  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/ss1.png" alt="Login Screen" width="250"/>
+  <img src="assets/screenshots/ss2.png" alt="Home Dashboard" width="250"/>
+  <img src="assets/screenshots/ss3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/ss4.JPG" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/ss5.JPG" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/ss6.JPG" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/ss7.JPG" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/ss8.JPG" alt="Farming Tips" width="250"/>
 </p>
 
 ---
