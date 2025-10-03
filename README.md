@@ -11,6 +11,11 @@ It uses **AI-powered crop recommendations, disease detection, real-time weather,
   <img src="assets/screenshots/screen1.png" alt="Login Screen" width="250"/>
   <img src="assets/screenshots/screen2.png" alt="Home Dashboard" width="250"/>
   <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
+  <img src="assets/screenshots/screen3.png" alt="Farming Tips" width="250"/>
 </p>
 
 ---
